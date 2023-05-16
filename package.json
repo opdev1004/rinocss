@@ -1,0 +1,33 @@
+{
+  "name": "rinocss",
+  "version": "0.0.1",
+  "description": "CSS Preprocessor",
+  "main": "dist/index.js",
+  "bin": "dist/index.js",
+  "scripts": {
+    "pack": "npx webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opdev1004/rinocss.git"
+  },
+  "keywords": [
+    "CSS",
+    "RinoCSS"
+  ],
+  "author": "Victor Chanil Park",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/opdev1004/rinocss/issues"
+  },
+  "homepage": "https://github.com/opdev1004/rinocss#readme",
+  "devDependencies": {
+    "webpack": "^5.78.0",
+    "webpack-cli": "^5.0.1"
+  },
+  "dependencies": {
+    "chokidar": "^3.5.3",
+    "totjs": "^0.0.5",
+    "ws": "^8.13.0"
+  }
+}

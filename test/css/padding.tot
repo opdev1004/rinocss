@@ -1,0 +1,9 @@
+<d:css>
+.pa-1 {
+    padding: 2px;
+}
+
+.pa-2 {
+    padding: 4px;
+}
+</d:css>

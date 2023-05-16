@@ -1,0 +1,9 @@
+<d:css>
+body {
+    background-color: #666;
+    color: #fff;
+}
+
+{{ components.padding, ./css/ }}
+
+</d:css>
