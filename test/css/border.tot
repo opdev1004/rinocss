@@ -4,39 +4,39 @@
 * For the future update, we maintain these as how they are named 
 */
 
-.border-dotted {
+.bd-dotted {
     border-style: dotted;
 }
 
-.border-solid {
+.bd-solid {
     border-style: solid;
 }
 
-.border-double {
+.bd-double {
     border-style: double;
 }
 
-.border-groove {
+.bd-groove {
     border-style: groove;
 }
 
-.border-ridge {
+.bd-ridge {
     border-style: ridge;
 }
 
-.border-inset {
+.bd-inset {
     border-style: inset;
 }
 
-.border-outset {
+.bd-outset {
     border-style: outset;
 }
 
-.border-none {
+.bd-none {
     border-style: none;
 }
 
-.border-hidden {
+.bd-hidden {
     border-style: hidden;
 }
 </d:css>

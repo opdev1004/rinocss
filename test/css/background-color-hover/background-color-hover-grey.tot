@@ -39,15 +39,15 @@
     background-color: #212121;
 }
 
-.black-hover:hover {
+.bg-black-hover:hover {
     background-color: #000000;
 }
 
-.white-hover:hover {
+.bg-white-hover:hover {
     background-color: #FFFFFF;
 }
 
-.transparent-hover:hover {
+.bg-transparent-hover:hover {
     background-color: #FFFFFF00;
 }
 </d:css>

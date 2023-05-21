@@ -39,15 +39,15 @@
     background-color: #212121;
 }
 
-.black {
+.bg-black {
     background-color: #000000;
 }
 
-.white {
+.bg-white {
     background-color: #FFFFFF;
 }
 
-.transparent {
+.bg-transparent {
     background-color: #FFFFFF00;
 }
 </d:css>

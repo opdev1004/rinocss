@@ -1,253 +1,253 @@
 <d:css>
-.border-0px {
+.bd-0px {
     border-width: 0px;
 }
 
-.border-1px {
+.bd-1px {
     border-width: 1px;
 }
 
-.border-2px {
+.bd-2px {
     border-width: 2px;
 }
 
-.border-3px {
+.bd-3px {
     border-width: 3px;
 }
 
-.border-4px {
+.bd-4px {
     border-width: 4px;
 }
 
-.border-5px {
+.bd-5px {
     border-width: 5px;
 }
 
-.border-6px {
+.bd-6px {
     border-width: 6px;
 }
 
-.border-7px {
+.bd-7px {
     border-width: 7px;
 }
 
-.border-8px {
+.bd-8px {
     border-width: 8px;
 }
 
-.border-9px {
+.bd-9px {
     border-width: 9px;
 }
 
-.border-10px {
+.bd-10px {
     border-width: 10px;
 }
 
-.border-11px {
+.bd-11px {
     border-width: 11px;
 }
 
-.border-12px {
+.bd-12px {
     border-width: 12px;
 }
 
-.border-13px {
+.bd-13px {
     border-width: 13px;
 }
 
-.border-14px {
+.bd-14px {
     border-width: 14px;
 }
 
-.border-15px {
+.bd-15px {
     border-width: 15px;
 }
 
-.border-16px {
+.bd-16px {
     border-width: 16px;
 }
 
-.border-17px {
+.bd-17px {
     border-width: 17px;
 }
 
-.border-18px {
+.bd-18px {
     border-width: 18px;
 }
 
-.border-19px {
+.bd-19px {
     border-width: 19px;
 }
 
-.border-20px {
+.bd-20px {
     border-width: 20px;
 }
 
-.border-21px {
+.bd-21px {
     border-width: 21px;
 }
 
-.border-22px {
+.bd-22px {
     border-width: 22px;
 }
 
-.border-23px {
+.bd-23px {
     border-width: 23px;
 }
 
-.border-24px {
+.bd-24px {
     border-width: 24px;
 }
 
-.border-25px {
+.bd-25px {
     border-width: 25px;
 }
 
-.border-26px {
+.bd-26px {
     border-width: 26px;
 }
 
-.border-27px {
+.bd-27px {
     border-width: 27px;
 }
 
-.border-28px {
+.bd-28px {
     border-width: 28px;
 }
 
-.border-29px {
+.bd-29px {
     border-width: 29px;
 }
 
-.border-30px {
+.bd-30px {
     border-width: 30px;
 }
 
-.border-31px {
+.bd-31px {
     border-width: 31px;
 }
 
-.border-32px {
+.bd-32px {
     border-width: 32px;
 }
 
-.border-33px {
+.bd-33px {
     border-width: 33px;
 }
 
-.border-34px {
+.bd-34px {
     border-width: 34px;
 }
 
-.border-35px {
+.bd-35px {
     border-width: 35px;
 }
 
-.border-36px {
+.bd-36px {
     border-width: 36px;
 }
 
-.border-37px {
+.bd-37px {
     border-width: 37px;
 }
 
-.border-38px {
+.bd-38px {
     border-width: 38px;
 }
 
-.border-39px {
+.bd-39px {
     border-width: 39px;
 }
 
-.border-40px {
+.bd-40px {
     border-width: 40px;
 }
 
-.border-41px {
+.bd-41px {
     border-width: 41px;
 }
 
-.border-42px {
+.bd-42px {
     border-width: 42px;
 }
 
-.border-43px {
+.bd-43px {
     border-width: 43px;
 }
 
-.border-44px {
+.bd-44px {
     border-width: 44px;
 }
 
-.border-45px {
+.bd-45px {
     border-width: 45px;
 }
 
-.border-46px {
+.bd-46px {
     border-width: 46px;
 }
 
-.border-47px {
+.bd-47px {
     border-width: 47px;
 }
 
-.border-48px {
+.bd-48px {
     border-width: 48px;
 }
 
-.border-49px {
+.bd-49px {
     border-width: 49px;
 }
 
-.border-50px {
+.bd-50px {
     border-width: 50px;
 }
 
-.border-thick {
+.bd-thick {
     border-width: thick;
 }
 
-.border-0em {
+.bd-0em {
     border-width: 0em;
 }
 
-.border-1em {
+.bd-1em {
     border-width: 1em;
 }
 
-.border-2em {
+.bd-2em {
     border-width: 2em;
 }
 
-.border-3em {
+.bd-3em {
     border-width: 3em;
 }
 
-.border-4em {
+.bd-4em {
     border-width: 4em;
 }
 
-.border-5em {
+.bd-5em {
     border-width: 5em;
 }
 
-.border-6em {
+.bd-6em {
     border-width: 6em;
 }
 
-.border-7em {
+.bd-7em {
     border-width: 7em;
 }
 
-.border-8em {
+.bd-8em {
     border-width: 8em;
 }
 
-.border-9em {
+.bd-9em {
     border-width: 9em;
 }
 
-.border-10em {
+.bd-10em {
     border-width: 10em;
 }
 </d:css>

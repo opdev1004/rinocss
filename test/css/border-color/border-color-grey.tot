@@ -39,15 +39,15 @@
     border-color: #212121;
 }
 
-.black {
+.bd-black {
     border-color: #000000;
 }
 
-.white {
+.bd-white {
     border-color: #FFFFFF;
 }
 
-.transparent {
+.bd-transparent {
     border-color: #FFFFFF00;
 }
 </d:css>
