@@ -349,6 +349,13 @@ module.exports = class RinoCSS
     {
         try
         {
+            const dirname = path.dirname(filename);
+
+            if (!fs.existsSync(dirname))
+            {
+                await fs.promises.mkdir(dirname);
+            }
+
             await fs.promises.writeFile(filename, css);
             return true;
         }

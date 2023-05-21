@@ -2,8 +2,8 @@
 CSS Preprocessor for developing your CSS project.
 
 ## 📢 Notice
-### 👍 Releasing version 0.0.2
-It had a problem with how it compares the name of componenets during building. So before it was checking whether in contains the string but now it checks whether they are equal. So it is more right now. Please avoid using same name for include the components. Including same componenets cause infinite loop anyway.
+### 👍 Releasing version 0.0.3
+Fixed the problem with writing a file when there's no parent directory.
 
 ## 💪 The things you can do with Rino CSS:
 ```
