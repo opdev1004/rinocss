@@ -1,0 +1,57 @@
+<d:css>
+.yellow {
+    color: #FFEB3B;
+}
+
+.yellow-lighten-5 {
+    color: #FFFDE7;
+}
+
+.yellow-lighten-4 {
+    color: #FFF9C4;
+}
+
+.yellow-lighten-3 {
+    color: #FFF59D;
+}
+
+.yellow-lighten-2 {
+    color: #FFF176;
+}
+
+.yellow-lighten-1 {
+    color: #FFEE58;
+}
+
+.yellow-darken-1 {
+    color: #FDD835;
+}
+
+.yellow-darken-2 {
+    color: #FBC02D;
+}
+
+.yellow-darken-3 {
+    color: #F9A825;
+}
+
+.yellow-darken-4 {
+    color: #F57F17;
+}
+
+.yellow-accent-1 {
+    color: #FFFF8D;
+}
+
+.yellow-accent-2 {
+    color: #FFFF00;
+}
+
+.yellow-accent-3 {
+    color: #FFEA00;
+}
+
+.yellow-accent-4 {
+    color: #FFD600;
+}
+</d:css>

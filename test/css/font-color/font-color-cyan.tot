@@ -1,0 +1,57 @@
+<d:css>
+.cyan {
+    color: #00BCD4;
+}
+
+.cyan-lighten-5 {
+    color: #E0F7FA;
+}
+
+.cyan-lighten-4 {
+    color: #B2EBF2;
+}
+
+.cyan-lighten-3 {
+    color: #80DEEA;
+}
+
+.cyan-lighten-2 {
+    color: #4DD0E1;
+}
+
+.cyan-lighten-1 {
+    color: #26C6DA;
+}
+
+.cyan-darken-1 {
+    color: #00ACC1;
+}
+
+.cyan-darken-2 {
+    color: #0097A7;
+}
+
+.cyan-darken-3 {
+    color: #00838F;
+}
+
+.cyan-darken-4 {
+    color: #006064;
+}
+
+.cyan-accent-1 {
+    color: #84FFFF;
+}
+
+.cyan-accent-2 {
+    color: #18FFFF;
+}
+
+.cyan-accent-3 {
+    color: #00E5FF;
+}
+
+.cyan-accent-4 {
+    color: #00B8D4;
+}
+</d:css>

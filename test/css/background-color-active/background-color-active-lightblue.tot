@@ -1,0 +1,57 @@
+<d:css>
+.bg-light-blue-active:active {
+    background-color: #03A9F4;
+}
+
+.bg-light-blue-lighten-5-active:active {
+    background-color: #E1F5FE;
+}
+
+.bg-light-blue-lighten-4-active:active {
+    background-color: #B3E5FC;
+}
+
+.bg-light-blue-lighten-3-active:active {
+    background-color: #81D4FA;
+}
+
+.bg-light-blue-lighten-2-active:active {
+    background-color: #4FC3F7;
+}
+
+.bg-light-blue-lighten-1-active:active {
+    background-color: #29B6F6;
+}
+
+.bg-light-blue-darken-1-active:active {
+    background-color: #039BE5;
+}
+
+.bg-light-blue-darken-2-active:active {
+    background-color: #0288D1;
+}
+
+.bg-light-blue-darken-3-active:active {
+    background-color: #0277BD;
+}
+
+.bg-light-blue-darken-4-active:active {
+    background-color: #01579B;
+}
+
+.bg-light-blue-accent-1-active:active {
+    background-color: #80D8FF;
+}
+
+.bg-light-blue-accent-2-active:active {
+    background-color: #40C4FF;
+}
+
+.bg-light-blue-accent-3-active:active {
+    background-color: #00B0FF;
+}
+
+.bg-light-blue-accent-4-active:active {
+    background-color: #0091EA;
+}
+</d:css>

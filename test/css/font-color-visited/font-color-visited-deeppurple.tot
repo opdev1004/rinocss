@@ -1,0 +1,57 @@
+<d:css>
+.deep-purple-visited:visited {
+    color: #673AB7;
+}
+
+.deep-purple-lighten-5-visited:visited {
+    color: #EDE7F6;
+}
+
+.deep-purple-lighten-4-visited:visited {
+    color: #D1C4E9;
+}
+
+.deep-purple-lighten-3-visited:visited {
+    color: #B39DDB;
+}
+
+.deep-purple-lighten-2-visited:visited {
+    color: #9575CD;
+}
+
+.deep-purple-lighten-1-visited:visited {
+    color: #7E57C2;
+}
+
+.deep-purple-darken-1-visited:visited {
+    color: #5E35B1;
+}
+
+.deep-purple-darken-2-visited:visited {
+    color: #512DA8;
+}
+
+.deep-purple-darken-3-visited:visited {
+    color: #4527A0;
+}
+
+.deep-purple-darken-4-visited:visited {
+    color: #311B92;
+}
+
+.deep-purple-accent-1-visited:visited {
+    color: #B388FF;
+}
+
+.deep-purple-accent-2-visited:visited {
+    color: #7C4DFF;
+}
+
+.deep-purple-accent-3-visited:visited {
+    color: #651FFF;
+}
+
+.deep-purple-accent-4-visited:visited {
+    color: #6200EA;
+}
+</d:css>

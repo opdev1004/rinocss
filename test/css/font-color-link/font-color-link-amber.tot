@@ -1,0 +1,57 @@
+<d:css>
+.amber-link:link {
+    color: #FFC107;
+}
+
+.amber-lighten-5-link:link {
+    color: #FFF8E1;
+}
+
+.amber-lighten-4-link:link {
+    color: #FFECB3;
+}
+
+.amber-lighten-3-link:link {
+    color: #FFE082;
+}
+
+.amber-lighten-2-link:link {
+    color: #FFD54F;
+}
+
+.amber-lighten-1-link:link {
+    color: #FFCA28;
+}
+
+.amber-darken-1-link:link {
+    color: #FFB300;
+}
+
+.amber-darken-2-link:link {
+    color: #FFA000;
+}
+
+.amber-darken-3-link:link {
+    color: #FF8F00;
+}
+
+.amber-darken-4-link:link {
+    color: #FF6F00;
+}
+
+.amber-accent-1-link:link {
+    color: #FFE57F;
+}
+
+.amber-accent-2-link:link {
+    color: #FFD740;
+}
+
+.amber-accent-3-link:link {
+    color: #FFC400;
+}
+
+.amber-accent-4-link:link {
+    color: #FFAB00;
+}
+</d:css>

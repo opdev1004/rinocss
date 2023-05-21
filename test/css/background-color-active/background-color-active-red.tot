@@ -1,0 +1,58 @@
+<d:css>
+.bg-red-active:active {
+    background-color: red;
+}
+
+.bg-red-lighten-5-active:active {
+    background-color: #FFEBEE;
+}
+
+.bg-red-lighten-4-active:active {
+    background-color: #FFCDD2;
+}
+
+.bg-red-lighten-3-active:active {
+    background-color: #EF9A9A;
+}
+
+.bg-red-lighten-2-active:active {
+    background-color: #E57373;
+}
+
+.bg-red-lighten-1-active:active {
+    background-color: #EF5350;
+}
+
+.bg-red-darken-1-active:active {
+    background-color: #E53935;
+}
+
+.bg-red-darken-2-active:active {
+    background-color: #D32F2F;
+}
+
+.bg-red-darken-3-active:active {
+    background-color: #C62828;
+}
+
+.bg-red-darken-4-active:active {
+    background-color: #B71C1C;
+}
+
+.bg-red-accent-1-active:active {
+    background-color: #FF8A80;
+}
+
+.bg-red-accent-2-active:active {
+    background-color: #FF5252;
+}
+
+.bg-red-accent-3-active:active {
+    background-color: #FF1744;
+}
+
+.bg-red-accent-4-active:active {
+    background-color: #D50000;
+}
+
+</d:css>

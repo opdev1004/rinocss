@@ -1,0 +1,41 @@
+<d:css>
+.block {
+    display: block;
+}
+
+.inline {
+    display: inline;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.none {
+    display: none;
+}
+
+.display-contents {
+    display: contents;
+}
+
+.flex {
+    display: flex;
+}
+
+.inline-flex {
+    display: inline-flex;
+}
+
+.grid {
+    display: grid;
+}
+
+.inline-grid {
+    display: inline-grid;
+}
+
+.flow-root {
+    display: flow-root;
+}
+</d:css>

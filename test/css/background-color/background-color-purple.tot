@@ -1,0 +1,57 @@
+<d:css>
+.bg-purple {
+    background-color: #9C27B0;
+}
+
+.bg-purple-lighten-5 {
+    background-color: #F3E5F5;
+}
+
+.bg-purple-lighten-4 {
+    background-color: #E1BEE7;
+}
+
+.bg-purple-lighten-3 {
+    background-color: #CE93D8;
+}
+
+.bg-purple-lighten-2 {
+    background-color: #BA68C8;
+}
+
+.bg-purple-lighten-1 {
+    background-color: #AB47BC;
+}
+
+.bg-purple-darken-1 {
+    background-color: #8E24AA;
+}
+
+.bg-purple-darken-2 {
+    background-color: #7B1FA2;
+}
+
+.bg-purple-darken-3 {
+    background-color: #6A1B9A;
+}
+
+.bg-purple-darken-4 {
+    background-color: #4A148C;
+}
+
+.bg-purple-accent-1 {
+    background-color: #EA80FC;
+}
+
+.bg-purple-accent-2 {
+    background-color: #E040FB;
+}
+
+.bg-purple-accent-3 {
+    background-color: #D500F9;
+}
+
+.bg-purple-accent-4 {
+    background-color: #AA00FF;
+}
+</d:css>

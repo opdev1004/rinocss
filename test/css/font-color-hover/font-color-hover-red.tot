@@ -1,0 +1,58 @@
+<d:css>
+.red-hover:hover {
+    color: red;
+}
+
+.red-lighten-5-hover:hover {
+    color: #FFEBEE;
+}
+
+.red-lighten-4-hover:hover {
+    color: #FFCDD2;
+}
+
+.red-lighten-3-hover:hover {
+    color: #EF9A9A;
+}
+
+.red-lighten-2-hover:hover {
+    color: #E57373;
+}
+
+.red-lighten-1-hover:hover {
+    color: #EF5350;
+}
+
+.red-darken-1-hover:hover {
+    color: #E53935;
+}
+
+.red-darken-2-hover:hover {
+    color: #D32F2F;
+}
+
+.red-darken-3-hover:hover {
+    color: #C62828;
+}
+
+.red-darken-4-hover:hover {
+    color: #B71C1C;
+}
+
+.red-accent-1-hover:hover {
+    color: #FF8A80;
+}
+
+.red-accent-2-hover:hover {
+    color: #FF5252;
+}
+
+.red-accent-3-hover:hover {
+    color: #FF1744;
+}
+
+.red-accent-4-hover:hover {
+    color: #D50000;
+}
+
+</d:css>

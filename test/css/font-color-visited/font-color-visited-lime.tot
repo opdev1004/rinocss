@@ -1,0 +1,57 @@
+<d:css>
+.lime-visited:visited {
+    color: #CDDC39;
+}
+
+.lime-lighten-5-visited:visited {
+    color: #F9FBE7;
+}
+
+.lime-lighten-4-visited:visited {
+    color: #F0F4C3;
+}
+
+.lime-lighten-3-visited:visited {
+    color: #E6EE9C;
+}
+
+.lime-lighten-2-visited:visited {
+    color: #DCE775;
+}
+
+.lime-lighten-1-visited:visited {
+    color: #D4E157;
+}
+
+.lime-darken-1-visited:visited {
+    color: #C0CA33;
+}
+
+.lime-darken-2-visited:visited {
+    color: #AFB42B;
+}
+
+.lime-darken-3-visited:visited {
+    color: #9E9D24;
+}
+
+.lime-darken-4-visited:visited {
+    color: #827717;
+}
+
+.lime-accent-1-visited:visited {
+    color: #F4FF81;
+}
+
+.lime-accent-2-visited:visited {
+    color: #EEFF41;
+}
+
+.lime-accent-3-visited:visited {
+    color: #C6FF00;
+}
+
+.lime-accent-4-visited:visited {
+    color: #AEEA00;
+}
+</d:css>

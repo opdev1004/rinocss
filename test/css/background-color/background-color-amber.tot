@@ -1,0 +1,57 @@
+<d:css>
+.bg-amber {
+    background-color: #FFC107;
+}
+
+.bg-amber-lighten-5 {
+    background-color: #FFF8E1;
+}
+
+.bg-amber-lighten-4 {
+    background-color: #FFECB3;
+}
+
+.bg-amber-lighten-3 {
+    background-color: #FFE082;
+}
+
+.bg-amber-lighten-2 {
+    background-color: #FFD54F;
+}
+
+.bg-amber-lighten-1 {
+    background-color: #FFCA28;
+}
+
+.bg-amber-darken-1 {
+    background-color: #FFB300;
+}
+
+.bg-amber-darken-2 {
+    background-color: #FFA000;
+}
+
+.bg-amber-darken-3 {
+    background-color: #FF8F00;
+}
+
+.bg-amber-darken-4 {
+    background-color: #FF6F00;
+}
+
+.bg-amber-accent-1 {
+    background-color: #FFE57F;
+}
+
+.bg-amber-accent-2 {
+    background-color: #FFD740;
+}
+
+.bg-amber-accent-3 {
+    background-color: #FFC400;
+}
+
+.bg-amber-accent-4 {
+    background-color: #FFAB00;
+}
+</d:css>

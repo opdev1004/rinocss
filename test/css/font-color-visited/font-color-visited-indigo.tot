@@ -1,0 +1,57 @@
+<d:css>
+.indigo-visited:visited {
+    color: #3F51B5;
+}
+
+.indigo-lighten-5-visited:visited {
+    color: #E8EAF6;
+}
+
+.indigo-lighten-4-visited:visited {
+    color: #C5CAE9;
+}
+
+.indigo-lighten-3-visited:visited {
+    color: #9FA8DA;
+}
+
+.indigo-lighten-2-visited:visited {
+    color: #7986CB;
+}
+
+.indigo-lighten-1-visited:visited {
+    color: #5C6BC0;
+}
+
+.indigo-darken-1-visited:visited {
+    color: #3949AB;
+}
+
+.indigo-darken-2-visited:visited {
+    color: #303F9F;
+}
+
+.indigo-darken-3-visited:visited {
+    color: #283593;
+}
+
+.indigo-darken-4-visited:visited {
+    color: #1A237E;
+}
+
+.indigo-accent-1-visited:visited {
+    color: #8C9EFF;
+}
+
+.indigo-accent-2-visited:visited {
+    color: #536DFE;
+}
+
+.indigo-accent-3-visited:visited {
+    color: #3D5AFE;
+}
+
+.indigo-accent-4-visited:visited {
+    color: #304FFE;
+}
+</d:css>

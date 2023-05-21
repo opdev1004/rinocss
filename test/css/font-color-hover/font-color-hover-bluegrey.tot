@@ -1,0 +1,41 @@
+<d:css>
+.blue-grey-hover:hover {
+    color: #607D8B;
+}
+
+.blue-grey-lighten-5-hover:hover {
+    color: #ECEFF1;
+}
+
+.blue-grey-lighten-4-hover:hover {
+    color: #CFD8DC;
+}
+
+.blue-grey-lighten-3-hover:hover {
+    color: #B0BEC5;
+}
+
+.blue-grey-lighten-2-hover:hover {
+    color: #90A4AE;
+}
+
+.blue-grey-lighten-1-hover:hover {
+    color: #78909C;
+}
+
+.blue-grey-darken-1-hover:hover {
+    color: #546E7A;
+}
+
+.blue-grey-darken-2-hover:hover {
+    color: #455A64;
+}
+
+.blue-grey-darken-3-hover:hover {
+    color: #37474F;
+}
+
+.blue-grey-darken-4-hover:hover {
+    color: #263238;
+}
+</d:css>

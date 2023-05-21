@@ -1,0 +1,57 @@
+<d:css>
+.bg-deep-orange {
+    background-color: #FF5722;
+}
+
+.bg-deep-orange-lighten-5 {
+    background-color: #FBE9E7;
+}
+
+.bg-deep-orange-lighten-4 {
+    background-color: #FFCCBC;
+}
+
+.bg-deep-orange-lighten-3 {
+    background-color: #FFAB91;
+}
+
+.bg-deep-orange-lighten-2 {
+    background-color: #FF8A65;
+}
+
+.bg-deep-orange-lighten-1 {
+    background-color: #FF7043;
+}
+
+.bg-deep-orange-darken-1 {
+    background-color: #F4511E;
+}
+
+.bg-deep-orange-darken-2 {
+    background-color: #E64A19;
+}
+
+.bg-deep-orange-darken-3 {
+    background-color: #D84315;
+}
+
+.bg-deep-orange-darken-4 {
+    background-color: #BF360C;
+}
+
+.bg-deep-orange-accent-1 {
+    background-color: #FF9E80;
+}
+
+.bg-deep-orange-accent-2 {
+    background-color: #FF6E40;
+}
+
+.bg-deep-orange-accent-3 {
+    background-color: #FF3D00;
+}
+
+.bg-deep-orange-accent-4 {
+    background-color: #DD2C00;
+}
+</d:css>

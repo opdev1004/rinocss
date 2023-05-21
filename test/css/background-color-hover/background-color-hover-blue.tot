@@ -1,0 +1,57 @@
+<d:css>
+.bg-blue-hover:hover {
+    background-color: #2196F3;
+}
+
+.bg-blue-lighten-5-hover:hover {
+    background-color: #E3F2FD;
+}
+
+.bg-blue-lighten-4-hover:hover {
+    background-color: #BBDEFB;
+}
+
+.bg-blue-lighten-3-hover:hover {
+    background-color: #90CAF9;
+}
+
+.bg-blue-lighten-2-hover:hover {
+    background-color: #64B5F6;
+}
+
+.bg-blue-lighten-1-hover:hover {
+    background-color: #42A5F5;
+}
+
+.bg-blue-darken-1-hover:hover {
+    background-color: #1E88E5;
+}
+
+.bg-blue-darken-2-hover:hover {
+    background-color: #1976D2;
+}
+
+.bg-blue-darken-3-hover:hover {
+    background-color: #1565C0;
+}
+
+.bg-blue-darken-4-hover:hover {
+    background-color: #0D47A1;
+}
+
+.bg-blue-accent-1-hover:hover {
+    background-color: #82B1FF;
+}
+
+.bg-blue-accent-2-hover:hover {
+    background-color: #448AFF;
+}
+
+.bg-blue-accent-3-hover:hover {
+    background-color: #2979FF;
+}
+
+.bg-blue-accent-4-hover:hover {
+    background-color: #2962FF;
+}
+</d:css>

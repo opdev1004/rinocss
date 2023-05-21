@@ -1,0 +1,57 @@
+<d:css>
+.orange-active:active {
+    color: #FF9800;
+}
+
+.orange-lighten-5-active:active {
+    color: #FFF3E0;
+}
+
+.orange-lighten-4-active:active {
+    color: #FFE0B2;
+}
+
+.orange-lighten-3-active:active {
+    color: #FFCC80;
+}
+
+.orange-lighten-2-active:active {
+    color: #FFB74D;
+}
+
+.orange-lighten-1-active:active {
+    color: #FFA726;
+}
+
+.orange-darken-1-active:active {
+    color: #FB8C00;
+}
+
+.orange-darken-2-active:active {
+    color: #F57C00;
+}
+
+.orange-darken-3-active:active {
+    color: #EF6C00;
+}
+
+.orange-darken-4-active:active {
+    color: #E65100;
+}
+
+.orange-accent-1-active:active {
+    color: #FFD180;
+}
+
+.orange-accent-2-active:active {
+    color: #FFAB40;
+}
+
+.orange-accent-3-active:active {
+    color: #FF9100;
+}
+
+.orange-accent-4-active:active {
+    color: #FF6D00;
+}
+</d:css>

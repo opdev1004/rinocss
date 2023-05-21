@@ -1,0 +1,57 @@
+<d:css>
+.bd-amber {
+    border-color: #FFC107;
+}
+
+.bd-amber-lighten-5 {
+    border-color: #FFF8E1;
+}
+
+.bd-amber-lighten-4 {
+    border-color: #FFECB3;
+}
+
+.bd-amber-lighten-3 {
+    border-color: #FFE082;
+}
+
+.bd-amber-lighten-2 {
+    border-color: #FFD54F;
+}
+
+.bd-amber-lighten-1 {
+    border-color: #FFCA28;
+}
+
+.bd-amber-darken-1 {
+    border-color: #FFB300;
+}
+
+.bd-amber-darken-2 {
+    border-color: #FFA000;
+}
+
+.bd-amber-darken-3 {
+    border-color: #FF8F00;
+}
+
+.bd-amber-darken-4 {
+    border-color: #FF6F00;
+}
+
+.bd-amber-accent-1 {
+    border-color: #FFE57F;
+}
+
+.bd-amber-accent-2 {
+    border-color: #FFD740;
+}
+
+.bd-amber-accent-3 {
+    border-color: #FFC400;
+}
+
+.bd-amber-accent-4 {
+    border-color: #FFAB00;
+}
+</d:css>

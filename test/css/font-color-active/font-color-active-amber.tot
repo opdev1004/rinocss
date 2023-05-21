@@ -1,0 +1,57 @@
+<d:css>
+.amber-active:active {
+    color: #FFC107;
+}
+
+.amber-lighten-5-active:active {
+    color: #FFF8E1;
+}
+
+.amber-lighten-4-active:active {
+    color: #FFECB3;
+}
+
+.amber-lighten-3-active:active {
+    color: #FFE082;
+}
+
+.amber-lighten-2-active:active {
+    color: #FFD54F;
+}
+
+.amber-lighten-1-active:active {
+    color: #FFCA28;
+}
+
+.amber-darken-1-active:active {
+    color: #FFB300;
+}
+
+.amber-darken-2-active:active {
+    color: #FFA000;
+}
+
+.amber-darken-3-active:active {
+    color: #FF8F00;
+}
+
+.amber-darken-4-active:active {
+    color: #FF6F00;
+}
+
+.amber-accent-1-active:active {
+    color: #FFE57F;
+}
+
+.amber-accent-2-active:active {
+    color: #FFD740;
+}
+
+.amber-accent-3-active:active {
+    color: #FFC400;
+}
+
+.amber-accent-4-active:active {
+    color: #FFAB00;
+}
+</d:css>

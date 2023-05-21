@@ -1,0 +1,57 @@
+<d:css>
+.bg-lime-hover:hover {
+    background-color: #CDDC39;
+}
+
+.bg-lime-lighten-5-hover:hover {
+    background-color: #F9FBE7;
+}
+
+.bg-lime-lighten-4-hover:hover {
+    background-color: #F0F4C3;
+}
+
+.bg-lime-lighten-3-hover:hover {
+    background-color: #E6EE9C;
+}
+
+.bg-lime-lighten-2-hover:hover {
+    background-color: #DCE775;
+}
+
+.bg-lime-lighten-1-hover:hover {
+    background-color: #D4E157;
+}
+
+.bg-lime-darken-1-hover:hover {
+    background-color: #C0CA33;
+}
+
+.bg-lime-darken-2-hover:hover {
+    background-color: #AFB42B;
+}
+
+.bg-lime-darken-3-hover:hover {
+    background-color: #9E9D24;
+}
+
+.bg-lime-darken-4-hover:hover {
+    background-color: #827717;
+}
+
+.bg-lime-accent-1-hover:hover {
+    background-color: #F4FF81;
+}
+
+.bg-lime-accent-2-hover:hover {
+    background-color: #EEFF41;
+}
+
+.bg-lime-accent-3-hover:hover {
+    background-color: #C6FF00;
+}
+
+.bg-lime-accent-4-hover:hover {
+    background-color: #AEEA00;
+}
+</d:css>

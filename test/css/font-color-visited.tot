@@ -1,0 +1,21 @@
+<d:css>
+{{ components.font-color-visited-red, ./css/font-color-visited }}
+{{ components.font-color-visited-pink, ./css/font-color-visited }}
+{{ components.font-color-visited-purple, ./css/font-color-visited }}
+{{ components.font-color-visited-deeppurple, ./css/font-color-visited }}
+{{ components.font-color-visited-indigo, ./css/font-color-visited }}
+{{ components.font-color-visited-blue, ./css/font-color-visited }}
+{{ components.font-color-visited-lightblue, ./css/font-color-visited }}
+{{ components.font-color-visited-cyan, ./css/font-color-visited }}
+{{ components.font-color-visited-teal, ./css/font-color-visited }}
+{{ components.font-color-visited-green, ./css/font-color-visited }}
+{{ components.font-color-visited-lightgreen, ./css/font-color-visited }}
+{{ components.font-color-visited-lime, ./css/font-color-visited }}
+{{ components.font-color-visited-yellow, ./css/font-color-visited }}
+{{ components.font-color-visited-amber, ./css/font-color-visited }}
+{{ components.font-color-visited-orange, ./css/font-color-visited }}
+{{ components.font-color-visited-deeporange, ./css/font-color-visited }}
+{{ components.font-color-visited-brown, ./css/font-color-visited }}
+{{ components.font-color-visited-bluegrey, ./css/font-color-visited }}
+{{ components.font-color-visited-grey, ./css/font-color-visited }}
+</d:css>

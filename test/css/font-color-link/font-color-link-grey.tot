@@ -1,0 +1,53 @@
+<d:css>
+.grey-link:link {
+    color: #9E9E9E;
+}
+
+.grey-lighten-5-link:link {
+    color: #FAFAFA;
+}
+
+.grey-lighten-4-link:link {
+    color: #F5F5F5;
+}
+
+.grey-lighten-3-link:link {
+    color: #EEEEEE;
+}
+
+.grey-lighten-2-link:link {
+    color: #E0E0E0;
+}
+
+.grey-lighten-1-link:link {
+    color: #BDBDBD;
+}
+
+.grey-darken-1-link:link {
+    color: #757575;
+}
+
+.grey-darken-2-link:link {
+    color: #616161;
+}
+
+.grey-darken-3-link:link {
+    color: #424242;
+}
+
+.grey-darken-4-link:link {
+    color: #212121;
+}
+
+.black-link:link {
+    color: #000000;
+}
+
+.white-link:link {
+    color: #FFFFFF;
+}
+
+.transparent-link:link {
+    color: #FFFFFF00;
+}
+</d:css>

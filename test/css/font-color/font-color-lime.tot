@@ -1,0 +1,57 @@
+<d:css>
+.lime {
+    color: #CDDC39;
+}
+
+.lime-lighten-5 {
+    color: #F9FBE7;
+}
+
+.lime-lighten-4 {
+    color: #F0F4C3;
+}
+
+.lime-lighten-3 {
+    color: #E6EE9C;
+}
+
+.lime-lighten-2 {
+    color: #DCE775;
+}
+
+.lime-lighten-1 {
+    color: #D4E157;
+}
+
+.lime-darken-1 {
+    color: #C0CA33;
+}
+
+.lime-darken-2 {
+    color: #AFB42B;
+}
+
+.lime-darken-3 {
+    color: #9E9D24;
+}
+
+.lime-darken-4 {
+    color: #827717;
+}
+
+.lime-accent-1 {
+    color: #F4FF81;
+}
+
+.lime-accent-2 {
+    color: #EEFF41;
+}
+
+.lime-accent-3 {
+    color: #C6FF00;
+}
+
+.lime-accent-4 {
+    color: #AEEA00;
+}
+</d:css>

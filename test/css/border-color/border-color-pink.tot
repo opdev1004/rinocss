@@ -1,0 +1,57 @@
+<d:css>
+.bd-pink {
+    border-color: #E91E63;
+}
+
+.bd-pink-lighten-5 {
+    border-color: #FCE4EC;
+}
+
+.bd-pink-lighten-4 {
+    border-color: #F8BBD0;
+}
+
+.bd-pink-lighten-3 {
+    border-color: #F48FB1;
+}
+
+.bd-pink-lighten-2 {
+    border-color: #F06292;
+}
+
+.bd-pink-lighten-1 {
+    border-color: #EC407A;
+}
+
+.bd-pink-darken-1 {
+    border-color: #D81B60;
+}
+
+.bd-pink-darken-2 {
+    border-color: #C2185B;
+}
+
+.bd-pink-darken-3 {
+    border-color: #AD1457;
+}
+
+.bd-pink-darken-4 {
+    border-color: #880E4F;
+}
+
+.bd-pink-accent-1 {
+    border-color: #FF80AB;
+}
+
+.bd-pink-accent-2 {
+    border-color: #FF4081;
+}
+
+.bd-pink-accent-3 {
+    border-color: #F50057;
+}
+
+.bd-pink-accent-4 {
+    border-color: #C51162;
+}
+</d:css>

@@ -1,0 +1,41 @@
+<d:css>
+.blue-grey {
+    color: #607D8B;
+}
+
+.blue-grey-lighten-5 {
+    color: #ECEFF1;
+}
+
+.blue-grey-lighten-4 {
+    color: #CFD8DC;
+}
+
+.blue-grey-lighten-3 {
+    color: #B0BEC5;
+}
+
+.blue-grey-lighten-2 {
+    color: #90A4AE;
+}
+
+.blue-grey-lighten-1 {
+    color: #78909C;
+}
+
+.blue-grey-darken-1 {
+    color: #546E7A;
+}
+
+.blue-grey-darken-2 {
+    color: #455A64;
+}
+
+.blue-grey-darken-3 {
+    color: #37474F;
+}
+
+.blue-grey-darken-4 {
+    color: #263238;
+}
+</d:css>

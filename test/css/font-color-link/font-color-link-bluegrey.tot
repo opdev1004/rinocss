@@ -1,0 +1,41 @@
+<d:css>
+.blue-grey-link:link {
+    color: #607D8B;
+}
+
+.blue-grey-lighten-5-link:link {
+    color: #ECEFF1;
+}
+
+.blue-grey-lighten-4-link:link {
+    color: #CFD8DC;
+}
+
+.blue-grey-lighten-3-link:link {
+    color: #B0BEC5;
+}
+
+.blue-grey-lighten-2-link:link {
+    color: #90A4AE;
+}
+
+.blue-grey-lighten-1-link:link {
+    color: #78909C;
+}
+
+.blue-grey-darken-1-link:link {
+    color: #546E7A;
+}
+
+.blue-grey-darken-2-link:link {
+    color: #455A64;
+}
+
+.blue-grey-darken-3-link:link {
+    color: #37474F;
+}
+
+.blue-grey-darken-4-link:link {
+    color: #263238;
+}
+</d:css>

@@ -1,0 +1,57 @@
+<d:css>
+.purple-hover:hover {
+    color: #9C27B0;
+}
+
+.purple-lighten-5-hover:hover {
+    color: #F3E5F5;
+}
+
+.purple-lighten-4-hover:hover {
+    color: #E1BEE7;
+}
+
+.purple-lighten-3-hover:hover {
+    color: #CE93D8;
+}
+
+.purple-lighten-2-hover:hover {
+    color: #BA68C8;
+}
+
+.purple-lighten-1-hover:hover {
+    color: #AB47BC;
+}
+
+.purple-darken-1-hover:hover {
+    color: #8E24AA;
+}
+
+.purple-darken-2-hover:hover {
+    color: #7B1FA2;
+}
+
+.purple-darken-3-hover:hover {
+    color: #6A1B9A;
+}
+
+.purple-darken-4-hover:hover {
+    color: #4A148C;
+}
+
+.purple-accent-1-hover:hover {
+    color: #EA80FC;
+}
+
+.purple-accent-2-hover:hover {
+    color: #E040FB;
+}
+
+.purple-accent-3-hover:hover {
+    color: #D500F9;
+}
+
+.purple-accent-4-hover:hover {
+    color: #AA00FF;
+}
+</d:css>

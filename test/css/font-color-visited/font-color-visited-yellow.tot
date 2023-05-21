@@ -1,0 +1,57 @@
+<d:css>
+.yellow-visited:visited {
+    color: #FFEB3B;
+}
+
+.yellow-lighten-5-visited:visited {
+    color: #FFFDE7;
+}
+
+.yellow-lighten-4-visited:visited {
+    color: #FFF9C4;
+}
+
+.yellow-lighten-3-visited:visited {
+    color: #FFF59D;
+}
+
+.yellow-lighten-2-visited:visited {
+    color: #FFF176;
+}
+
+.yellow-lighten-1-visited:visited {
+    color: #FFEE58;
+}
+
+.yellow-darken-1-visited:visited {
+    color: #FDD835;
+}
+
+.yellow-darken-2-visited:visited {
+    color: #FBC02D;
+}
+
+.yellow-darken-3-visited:visited {
+    color: #F9A825;
+}
+
+.yellow-darken-4-visited:visited {
+    color: #F57F17;
+}
+
+.yellow-accent-1-visited:visited {
+    color: #FFFF8D;
+}
+
+.yellow-accent-2-visited:visited {
+    color: #FFFF00;
+}
+
+.yellow-accent-3-visited:visited {
+    color: #FFEA00;
+}
+
+.yellow-accent-4-visited:visited {
+    color: #FFD600;
+}
+</d:css>

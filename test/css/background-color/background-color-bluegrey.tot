@@ -1,0 +1,41 @@
+<d:css>
+.bg-blue-grey {
+    background-color: #607D8B;
+}
+
+.bg-blue-grey-lighten-5 {
+    background-color: #ECEFF1;
+}
+
+.bg-blue-grey-lighten-4 {
+    background-color: #CFD8DC;
+}
+
+.bg-blue-grey-lighten-3 {
+    background-color: #B0BEC5;
+}
+
+.bg-blue-grey-lighten-2 {
+    background-color: #90A4AE;
+}
+
+.bg-blue-grey-lighten-1 {
+    background-color: #78909C;
+}
+
+.bg-blue-grey-darken-1 {
+    background-color: #546E7A;
+}
+
+.bg-blue-grey-darken-2 {
+    background-color: #455A64;
+}
+
+.bg-blue-grey-darken-3 {
+    background-color: #37474F;
+}
+
+.bg-blue-grey-darken-4 {
+    background-color: #263238;
+}
+</d:css>

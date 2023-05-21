@@ -1,0 +1,53 @@
+<d:css>
+.grey {
+    color: #9E9E9E;
+}
+
+.grey-lighten-5 {
+    color: #FAFAFA;
+}
+
+.grey-lighten-4 {
+    color: #F5F5F5;
+}
+
+.grey-lighten-3 {
+    color: #EEEEEE;
+}
+
+.grey-lighten-2 {
+    color: #E0E0E0;
+}
+
+.grey-lighten-1 {
+    color: #BDBDBD;
+}
+
+.grey-darken-1 {
+    color: #757575;
+}
+
+.grey-darken-2 {
+    color: #616161;
+}
+
+.grey-darken-3 {
+    color: #424242;
+}
+
+.grey-darken-4 {
+    color: #212121;
+}
+
+.black {
+    color: #000000;
+}
+
+.white {
+    color: #FFFFFF;
+}
+
+.transparent {
+    color: #FFFFFF00;
+}
+</d:css>

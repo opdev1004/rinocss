@@ -1,0 +1,57 @@
+<d:css>
+.bg-deep-orange-hover:hover {
+    background-color: #FF5722;
+}
+
+.bg-deep-orange-lighten-5-hover:hover {
+    background-color: #FBE9E7;
+}
+
+.bg-deep-orange-lighten-4-hover:hover {
+    background-color: #FFCCBC;
+}
+
+.bg-deep-orange-lighten-3-hover:hover {
+    background-color: #FFAB91;
+}
+
+.bg-deep-orange-lighten-2-hover:hover {
+    background-color: #FF8A65;
+}
+
+.bg-deep-orange-lighten-1-hover:hover {
+    background-color: #FF7043;
+}
+
+.bg-deep-orange-darken-1-hover:hover {
+    background-color: #F4511E;
+}
+
+.bg-deep-orange-darken-2-hover:hover {
+    background-color: #E64A19;
+}
+
+.bg-deep-orange-darken-3-hover:hover {
+    background-color: #D84315;
+}
+
+.bg-deep-orange-darken-4-hover:hover {
+    background-color: #BF360C;
+}
+
+.bg-deep-orange-accent-1-hover:hover {
+    background-color: #FF9E80;
+}
+
+.bg-deep-orange-accent-2-hover:hover {
+    background-color: #FF6E40;
+}
+
+.bg-deep-orange-accent-3-hover:hover {
+    background-color: #FF3D00;
+}
+
+.bg-deep-orange-accent-4-hover:hover {
+    background-color: #DD2C00;
+}
+</d:css>

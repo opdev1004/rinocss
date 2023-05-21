@@ -1,0 +1,57 @@
+<d:css>
+.deep-orange-visited:visited {
+    color: #FF5722;
+}
+
+.deep-orange-lighten-5-visited:visited {
+    color: #FBE9E7;
+}
+
+.deep-orange-lighten-4-visited:visited {
+    color: #FFCCBC;
+}
+
+.deep-orange-lighten-3-visited:visited {
+    color: #FFAB91;
+}
+
+.deep-orange-lighten-2-visited:visited {
+    color: #FF8A65;
+}
+
+.deep-orange-lighten-1-visited:visited {
+    color: #FF7043;
+}
+
+.deep-orange-darken-1-visited:visited {
+    color: #F4511E;
+}
+
+.deep-orange-darken-2-visited:visited {
+    color: #E64A19;
+}
+
+.deep-orange-darken-3-visited:visited {
+    color: #D84315;
+}
+
+.deep-orange-darken-4-visited:visited {
+    color: #BF360C;
+}
+
+.deep-orange-accent-1-visited:visited {
+    color: #FF9E80;
+}
+
+.deep-orange-accent-2-visited:visited {
+    color: #FF6E40;
+}
+
+.deep-orange-accent-3-visited:visited {
+    color: #FF3D00;
+}
+
+.deep-orange-accent-4-visited:visited {
+    color: #DD2C00;
+}
+</d:css>

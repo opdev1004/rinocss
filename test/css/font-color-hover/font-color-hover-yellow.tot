@@ -1,0 +1,57 @@
+<d:css>
+.yellow-hover:hover {
+    color: #FFEB3B;
+}
+
+.yellow-lighten-5-hover:hover {
+    color: #FFFDE7;
+}
+
+.yellow-lighten-4-hover:hover {
+    color: #FFF9C4;
+}
+
+.yellow-lighten-3-hover:hover {
+    color: #FFF59D;
+}
+
+.yellow-lighten-2-hover:hover {
+    color: #FFF176;
+}
+
+.yellow-lighten-1-hover:hover {
+    color: #FFEE58;
+}
+
+.yellow-darken-1-hover:hover {
+    color: #FDD835;
+}
+
+.yellow-darken-2-hover:hover {
+    color: #FBC02D;
+}
+
+.yellow-darken-3-hover:hover {
+    color: #F9A825;
+}
+
+.yellow-darken-4-hover:hover {
+    color: #F57F17;
+}
+
+.yellow-accent-1-hover:hover {
+    color: #FFFF8D;
+}
+
+.yellow-accent-2-hover:hover {
+    color: #FFFF00;
+}
+
+.yellow-accent-3-hover:hover {
+    color: #FFEA00;
+}
+
+.yellow-accent-4-hover:hover {
+    color: #FFD600;
+}
+</d:css>

@@ -1,0 +1,57 @@
+<d:css>
+.bg-pink-hover:hover {
+    background-color: #E91E63;
+}
+
+.bg-pink-lighten-5-hover:hover {
+    background-color: #FCE4EC;
+}
+
+.bg-pink-lighten-4-hover:hover {
+    background-color: #F8BBD0;
+}
+
+.bg-pink-lighten-3-hover:hover {
+    background-color: #F48FB1;
+}
+
+.bg-pink-lighten-2-hover:hover {
+    background-color: #F06292;
+}
+
+.bg-pink-lighten-1-hover:hover {
+    background-color: #EC407A;
+}
+
+.bg-pink-darken-1-hover:hover {
+    background-color: #D81B60;
+}
+
+.bg-pink-darken-2-hover:hover {
+    background-color: #C2185B;
+}
+
+.bg-pink-darken-3-hover:hover {
+    background-color: #AD1457;
+}
+
+.bg-pink-darken-4-hover:hover {
+    background-color: #880E4F;
+}
+
+.bg-pink-accent-1-hover:hover {
+    background-color: #FF80AB;
+}
+
+.bg-pink-accent-2-hover:hover {
+    background-color: #FF4081;
+}
+
+.bg-pink-accent-3-hover:hover {
+    background-color: #F50057;
+}
+
+.bg-pink-accent-4-hover:hover {
+    background-color: #C51162;
+}
+</d:css>

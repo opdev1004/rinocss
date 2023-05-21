@@ -1,9 +1,18 @@
 <d:css>
-body {
-    background-color: #666;
-    color: #fff;
-}
-
+{{ components.margin, ./css/ }}
 {{ components.padding, ./css/ }}
-
+{{ components.display, ./css/ }}
+{{ components.position, ./css/ }}
+{{ components.font-color, ./css/ }}
+{{ components.font-color-link, ./css/ }}
+{{ components.font-color-visited, ./css/ }}
+{{ components.font-color-hover, ./css/ }}
+{{ components.font-color-active, ./css/ }}
+{{ components.background-color, ./css/ }}
+{{ components.background-color-hover , ./css/ }}
+{{ components.background-color-active , ./css/ }}
+{{ components.border, ./css/ }}
+{{ components.border-radius, ./css/ }}
+{{ components.border-width, ./css/ }}
+{{ components.border-color, ./css/ }}
 </d:css>

@@ -1,0 +1,57 @@
+<d:css>
+.indigo {
+    color: #3F51B5;
+}
+
+.indigo-lighten-5 {
+    color: #E8EAF6;
+}
+
+.indigo-lighten-4 {
+    color: #C5CAE9;
+}
+
+.indigo-lighten-3 {
+    color: #9FA8DA;
+}
+
+.indigo-lighten-2 {
+    color: #7986CB;
+}
+
+.indigo-lighten-1 {
+    color: #5C6BC0;
+}
+
+.indigo-darken-1 {
+    color: #3949AB;
+}
+
+.indigo-darken-2 {
+    color: #303F9F;
+}
+
+.indigo-darken-3 {
+    color: #283593;
+}
+
+.indigo-darken-4 {
+    color: #1A237E;
+}
+
+.indigo-accent-1 {
+    color: #8C9EFF;
+}
+
+.indigo-accent-2 {
+    color: #536DFE;
+}
+
+.indigo-accent-3 {
+    color: #3D5AFE;
+}
+
+.indigo-accent-4 {
+    color: #304FFE;
+}
+</d:css>

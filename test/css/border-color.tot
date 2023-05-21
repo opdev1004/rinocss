@@ -1,0 +1,21 @@
+<d:css>
+{{ components.border-color-red, ./css/border-color }}
+{{ components.border-color-pink, ./css/border-color }}
+{{ components.border-color-purple, ./css/border-color }}
+{{ components.border-color-deeppurple, ./css/border-color }}
+{{ components.border-color-indigo, ./css/border-color }}
+{{ components.border-color-blue, ./css/border-color }}
+{{ components.border-color-lightblue, ./css/border-color }}
+{{ components.border-color-cyan, ./css/border-color }}
+{{ components.border-color-teal, ./css/border-color }}
+{{ components.border-color-green, ./css/border-color }}
+{{ components.border-color-lightgreen, ./css/border-color }}
+{{ components.border-color-lime, ./css/border-color }}
+{{ components.border-color-yellow, ./css/border-color }}
+{{ components.border-color-amber, ./css/border-color }}
+{{ components.border-color-orange, ./css/border-color }}
+{{ components.border-color-deeporange, ./css/border-color }}
+{{ components.border-color-brown, ./css/border-color }}
+{{ components.border-color-bluegrey, ./css/border-color }}
+{{ components.border-color-grey, ./css/border-color }}
+</d:css>

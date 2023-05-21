@@ -1,0 +1,58 @@
+<d:css>
+.bg-red-hover:hover {
+    background-color: red;
+}
+
+.bg-red-lighten-5-hover:hover {
+    background-color: #FFEBEE;
+}
+
+.bg-red-lighten-4-hover:hover {
+    background-color: #FFCDD2;
+}
+
+.bg-red-lighten-3-hover:hover {
+    background-color: #EF9A9A;
+}
+
+.bg-red-lighten-2-hover:hover {
+    background-color: #E57373;
+}
+
+.bg-red-lighten-1-hover:hover {
+    background-color: #EF5350;
+}
+
+.bg-red-darken-1-hover:hover {
+    background-color: #E53935;
+}
+
+.bg-red-darken-2-hover:hover {
+    background-color: #D32F2F;
+}
+
+.bg-red-darken-3-hover:hover {
+    background-color: #C62828;
+}
+
+.bg-red-darken-4-hover:hover {
+    background-color: #B71C1C;
+}
+
+.bg-red-accent-1-hover:hover {
+    background-color: #FF8A80;
+}
+
+.bg-red-accent-2-hover:hover {
+    background-color: #FF5252;
+}
+
+.bg-red-accent-3-hover:hover {
+    background-color: #FF1744;
+}
+
+.bg-red-accent-4-hover:hover {
+    background-color: #D50000;
+}
+
+</d:css>

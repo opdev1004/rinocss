@@ -1,0 +1,58 @@
+<d:css>
+.red {
+    color: red;
+}
+
+.red-lighten-5 {
+    color: #FFEBEE;
+}
+
+.red-lighten-4 {
+    color: #FFCDD2;
+}
+
+.red-lighten-3 {
+    color: #EF9A9A;
+}
+
+.red-lighten-2 {
+    color: #E57373;
+}
+
+.red-lighten-1 {
+    color: #EF5350;
+}
+
+.red-darken-1 {
+    color: #E53935;
+}
+
+.red-darken-2 {
+    color: #D32F2F;
+}
+
+.red-darken-3 {
+    color: #C62828;
+}
+
+.red-darken-4 {
+    color: #B71C1C;
+}
+
+.red-accent-1 {
+    color: #FF8A80;
+}
+
+.red-accent-2 {
+    color: #FF5252;
+}
+
+.red-accent-3 {
+    color: #FF1744;
+}
+
+.red-accent-4 {
+    color: #D50000;
+}
+
+</d:css>

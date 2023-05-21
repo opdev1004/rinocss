@@ -1,0 +1,57 @@
+<d:css>
+.pink-active:active {
+    color: #E91E63;
+}
+
+.pink-lighten-5-active:active {
+    color: #FCE4EC;
+}
+
+.pink-lighten-4-active:active {
+    color: #F8BBD0;
+}
+
+.pink-lighten-3-active:active {
+    color: #F48FB1;
+}
+
+.pink-lighten-2-active:active {
+    color: #F06292;
+}
+
+.pink-lighten-1-active:active {
+    color: #EC407A;
+}
+
+.pink-darken-1-active:active {
+    color: #D81B60;
+}
+
+.pink-darken-2-active:active {
+    color: #C2185B;
+}
+
+.pink-darken-3-active:active {
+    color: #AD1457;
+}
+
+.pink-darken-4-active:active {
+    color: #880E4F;
+}
+
+.pink-accent-1-active:active {
+    color: #FF80AB;
+}
+
+.pink-accent-2-active:active {
+    color: #FF4081;
+}
+
+.pink-accent-3-active:active {
+    color: #F50057;
+}
+
+.pink-accent-4-active:active {
+    color: #C51162;
+}
+</d:css>

@@ -1,9 +1,9 @@
 # Rino CSS 🦏
-CSS Preprocessor for developing your CSS project. There are many way to manage CSS project.
+CSS Preprocessor for developing your CSS project.
 
 ## 📢 Notice
-### 👍 Releasing 0.0.1
-😎
+### 👍 Releasing version 0.0.2
+It had a problem with how it compares the name of componenets during building. So before it was checking whether in contains the string but now it checks whether they are equal. So it is more right now. Please avoid using same name for include the components. Including same componenets cause infinite loop anyway.
 
 ## 💪 The things you can do with Rino CSS:
 ```
@@ -26,6 +26,8 @@ My setting is Windows 10, so I cannot test other OS. However, it should work as 
 However, I recommend using LTS version of Node.js and recent version of OS.
 
 ## 📖 Example:
+If you want to have a look at bigger example of using rinocss, have a look at
+[rino ui repository](https://github.com/opdev1004/rinoui)
 ### ./src/index.js:
 index.js for Live development:
 ```

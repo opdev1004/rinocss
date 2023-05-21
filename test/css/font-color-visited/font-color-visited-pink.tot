@@ -1,0 +1,57 @@
+<d:css>
+.pink-visited:visited {
+    color: #E91E63;
+}
+
+.pink-lighten-5-visited:visited {
+    color: #FCE4EC;
+}
+
+.pink-lighten-4-visited:visited {
+    color: #F8BBD0;
+}
+
+.pink-lighten-3-visited:visited {
+    color: #F48FB1;
+}
+
+.pink-lighten-2-visited:visited {
+    color: #F06292;
+}
+
+.pink-lighten-1-visited:visited {
+    color: #EC407A;
+}
+
+.pink-darken-1-visited:visited {
+    color: #D81B60;
+}
+
+.pink-darken-2-visited:visited {
+    color: #C2185B;
+}
+
+.pink-darken-3-visited:visited {
+    color: #AD1457;
+}
+
+.pink-darken-4-visited:visited {
+    color: #880E4F;
+}
+
+.pink-accent-1-visited:visited {
+    color: #FF80AB;
+}
+
+.pink-accent-2-visited:visited {
+    color: #FF4081;
+}
+
+.pink-accent-3-visited:visited {
+    color: #F50057;
+}
+
+.pink-accent-4-visited:visited {
+    color: #C51162;
+}
+</d:css>

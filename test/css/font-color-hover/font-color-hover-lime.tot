@@ -1,0 +1,57 @@
+<d:css>
+.lime-hover:hover {
+    color: #CDDC39;
+}
+
+.lime-lighten-5-hover:hover {
+    color: #F9FBE7;
+}
+
+.lime-lighten-4-hover:hover {
+    color: #F0F4C3;
+}
+
+.lime-lighten-3-hover:hover {
+    color: #E6EE9C;
+}
+
+.lime-lighten-2-hover:hover {
+    color: #DCE775;
+}
+
+.lime-lighten-1-hover:hover {
+    color: #D4E157;
+}
+
+.lime-darken-1-hover:hover {
+    color: #C0CA33;
+}
+
+.lime-darken-2-hover:hover {
+    color: #AFB42B;
+}
+
+.lime-darken-3-hover:hover {
+    color: #9E9D24;
+}
+
+.lime-darken-4-hover:hover {
+    color: #827717;
+}
+
+.lime-accent-1-hover:hover {
+    color: #F4FF81;
+}
+
+.lime-accent-2-hover:hover {
+    color: #EEFF41;
+}
+
+.lime-accent-3-hover:hover {
+    color: #C6FF00;
+}
+
+.lime-accent-4-hover:hover {
+    color: #AEEA00;
+}
+</d:css>

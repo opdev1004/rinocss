@@ -1,0 +1,41 @@
+<d:css>
+.brown-hover:hover {
+    color: #795548;
+}
+
+.brown-lighten-5-hover:hover {
+    color: #EFEBE9;
+}
+
+.brown-lighten-4-hover:hover {
+    color: #D7CCC8;
+}
+
+.brown-lighten-3-hover:hover {
+    color: #BCAAA4;
+}
+
+.brown-lighten-2-hover:hover {
+    color: #A1887F;
+}
+
+.brown-lighten-1-hover:hover {
+    color: #8D6E63;
+}
+
+.brown-darken-1-hover:hover {
+    color: #6D4C41;
+}
+
+.brown-darken-2-hover:hover {
+    color: #5D4037;
+}
+
+.brown-darken-3-hover:hover {
+    color: #4E342E;
+}
+
+.brown-darken-4-hover:hover {
+    color: #3E2723;
+}
+</d:css>

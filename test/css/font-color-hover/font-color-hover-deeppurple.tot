@@ -1,0 +1,57 @@
+<d:css>
+.deep-purple-hover:hover {
+    color: #673AB7;
+}
+
+.deep-purple-lighten-5-hover:hover {
+    color: #EDE7F6;
+}
+
+.deep-purple-lighten-4-hover:hover {
+    color: #D1C4E9;
+}
+
+.deep-purple-lighten-3-hover:hover {
+    color: #B39DDB;
+}
+
+.deep-purple-lighten-2-hover:hover {
+    color: #9575CD;
+}
+
+.deep-purple-lighten-1-hover:hover {
+    color: #7E57C2;
+}
+
+.deep-purple-darken-1-hover:hover {
+    color: #5E35B1;
+}
+
+.deep-purple-darken-2-hover:hover {
+    color: #512DA8;
+}
+
+.deep-purple-darken-3-hover:hover {
+    color: #4527A0;
+}
+
+.deep-purple-darken-4-hover:hover {
+    color: #311B92;
+}
+
+.deep-purple-accent-1-hover:hover {
+    color: #B388FF;
+}
+
+.deep-purple-accent-2-hover:hover {
+    color: #7C4DFF;
+}
+
+.deep-purple-accent-3-hover:hover {
+    color: #651FFF;
+}
+
+.deep-purple-accent-4-hover:hover {
+    color: #6200EA;
+}
+</d:css>

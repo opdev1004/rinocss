@@ -283,7 +283,7 @@ module.exports = class RinoCSS
             let targetArray = target.split(",");
             let targetName = targetArray[0].trim().substring(11, target.length);
 
-            if (target.substring(0, 11) == "components." && !targetName.includes(name))
+            if (target.substring(0, 11) == "components." && targetName !== name)
             {
                 let compResult;
                 let componentDirName = targetArray[1].trim();

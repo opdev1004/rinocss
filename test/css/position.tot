@@ -1,0 +1,21 @@
+<d:css>
+.fixed {
+    position: fixed;
+}
+
+.relative {
+    position: relative;
+}
+
+.absolute {
+    position: absolute;
+}
+
+.static {
+    position: static;
+}
+
+.sticky {
+    position: sticky;
+}
+</d:css>

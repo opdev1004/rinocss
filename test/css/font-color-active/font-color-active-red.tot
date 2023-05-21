@@ -1,0 +1,58 @@
+<d:css>
+.red-active:active {
+    color: red;
+}
+
+.red-lighten-5-active:active {
+    color: #FFEBEE;
+}
+
+.red-lighten-4-active:active {
+    color: #FFCDD2;
+}
+
+.red-lighten-3-active:active {
+    color: #EF9A9A;
+}
+
+.red-lighten-2-active:active {
+    color: #E57373;
+}
+
+.red-lighten-1-active:active {
+    color: #EF5350;
+}
+
+.red-darken-1-active:active {
+    color: #E53935;
+}
+
+.red-darken-2-active:active {
+    color: #D32F2F;
+}
+
+.red-darken-3-active:active {
+    color: #C62828;
+}
+
+.red-darken-4-active:active {
+    color: #B71C1C;
+}
+
+.red-accent-1-active:active {
+    color: #FF8A80;
+}
+
+.red-accent-2-active:active {
+    color: #FF5252;
+}
+
+.red-accent-3-active:active {
+    color: #FF1744;
+}
+
+.red-accent-4-active:active {
+    color: #D50000;
+}
+
+</d:css>
